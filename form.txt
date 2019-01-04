@@ -1,0 +1,9 @@
+<?php
+
+(form name = 'ninini' intem = 'jjj'){
+   public function add(){
+       function hai(){
+       
+       }
+   }
+}	
